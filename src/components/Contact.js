@@ -21,7 +21,7 @@ class Contact extends Component {
         </div>
         </Fade>
 
-            <span className='footer'>Alternate website design<a href="/"> Saman's original website</a></span>
+            <span className='footer'>Alternate website design<a href="https://saman2052.github.io/Portfolio2/"> Saman's original website</a></span>
         </div>);
     }
 }
